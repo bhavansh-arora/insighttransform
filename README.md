@@ -32,7 +32,7 @@ The setting is remembered for the browser tab. Use `?notes=off` or the "Hide" bu
 It's plain HTML, CSS and JS with no build step:
 
 ```bash
-cd insight-transformation && python3 -m http.server 8080
+python3 -m http.server 8080
 ```
 
 ## Tech notes
